@@ -1,0 +1,16 @@
+h1 {
+ 	color: red;
+	margin-bottom: 45px;
+}
+h2 {
+	color: orange;
+	margin-bottom: 45px;
+}
+p {
+	line-height: 0.5
+}
+body {
+  	text-align: center;
+  	line-height: 0.4;
+  	background-color: lightgrey;
+}
